@@ -1,6 +1,6 @@
 # Phonenow_Call_Center
 • PWC conducted Microsoft Power BI Virtual Experience Program on theforage.com website and the dataset consist of 4055 records.     
-• In this Virtual Experience Program, I Developed a dashboard in Power BI and utilized DAX functions for advanced calculations to monitor and analyze long-term trends in customer and agent behavior at the PhoneNow call center. 
+• In this Virtual Experience Program, I Developed a dashboard in Power BI with 5 insights and utilized DAX functions for advanced calculations to monitor and analyze long-term trends in customer and agent behavior at the PhoneNow call center. 
 
 #### From the analysis, I found answers to interesting questions such as:
 
